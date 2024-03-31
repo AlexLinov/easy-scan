@@ -24,7 +24,7 @@ sleep 5
 
 echo -e "\033[0;31mOpen ports found:\033[0m $open_ports"
 sleep 5
-echo "\033[0mPerforming full scan on found ports...\033[0m"
+echo -e "\033[0mPerforming full scan on found ports...\033[0m"
 
 nmap -iL "$ips_input_file" -p"$open_ports" -sCV -A -oN "$custom_scan_output" -vv
 
