@@ -4,7 +4,7 @@ Automating the weird stuff.
 
 # Nmap Easy Scan
 
-Automate the process of performing detailed nmap scans on a list of IP addresses. It first identifies all open ports for each IP address and then conducts a comprehensive scan on those ports, offering insights into potential vulnerabilities and the network's security posture.
+Automate the process of performing detailed nmap scans on a list of IP addresses. It first identifies all open ports for each IP address and then performs a comprehensive scan.
 
 ## Features
 
