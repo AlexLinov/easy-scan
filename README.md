@@ -1,6 +1,6 @@
 ## Overview
 
-Automating the weird stuff.
+Automating the boring stuff.
 
 # Nmap Easy Scan
 
